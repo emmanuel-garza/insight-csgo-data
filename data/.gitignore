@@ -1,0 +1,5 @@
+# Ignore everything except this file to keep the folder structure
+*
+!csv/
+!matches-2019/
+!.gitignore

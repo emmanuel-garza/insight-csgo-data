@@ -1,0 +1,13 @@
+# NPM modules (ignore entire folder)
+node_modules/
+package-lock.json
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
