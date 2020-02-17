@@ -32,3 +32,8 @@ To set the cron job for execution every day N minutes past M o'clock (assuming t
 * Use absolute path for the files
 * When saving a map, if the game isn't over, the information might be incomplete
 * * To avoid this problem, we always re-write the independent map JSON files given that we only do the update of a couple of days
+
+--- 
+## Related repositories
+* In 'emmanuel-garza/moneyball-csgo' is located the source code for the web app, whose url is: http://helmholtzanalytics.xyz/
+* In 'emmanuel-garza/insight-csgo' is located the source code for modeling the outcome of a match.
